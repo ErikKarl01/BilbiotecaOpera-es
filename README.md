@@ -1,5 +1,2 @@
-🙌 Olá mundo, eu me chamo Erik, sou um amante da tecnologia e um curioso.
-Atualmente estudo TI na UFERSA.
-☄️ Sou um admirador das empresas aeroespaciais.
-🧠 Alem disso programo em  https://img.shields.io/badge/python-7F00FF?style=for-the-badge&logo=python&logoColor=whit e em https://img.shields.io/badge/C-7F00FF?style=for-the-badge&logo=c&logoColor=white.
-♥️ Estudo sobre banco de dados, inteligência artificial e aprendizado de máquina.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0522D&size=40&center=true&vCenter=true&width=1000&lines=Oi!+me+chamo+Erik+Praxedes;Estudante+de+Tecnologia+da+informação+)](https://git.io/typing-svg)
+🙌 Olá mundo, eu me chamo Erik, sou um amante da tecnologia e um curioso. Atualmente estudo TI na UFERSA. ☄️ Sou um admirador das empresas aeroespaciais. 🧠 Alem disso programo em <img alt="C" src="https://img.shields.io/badge/C-7F00FF?style=for-the-badge&logo=c&logoColor=white"/> e em <img alt="Python" src="https://img.shields.io/badge/python-7F00FF?style=for-the-badge&logo=python&logoColor=white"/>. ♥️ Estudo sobre banco de dados, inteligência artificial e aprendizado de máquina.
